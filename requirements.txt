@@ -1,0 +1,5 @@
+pandas==2.0.3
+folium==0.14.0
+pygal==3.0.0
+ipywidgets==8.1.0
+ipython==8.15.0
